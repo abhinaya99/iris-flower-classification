@@ -14,8 +14,8 @@ This project develops a machine learning model to accurately identify Iris flowe
         pip install pandas scikit-learn matplotlib seaborn
         ```
 2.  **Execution:**
-    * If you are using a Jupyter Notebook: "Open the `iris_classification.ipynb` file and run all cells."
-    * If you are using a Python script: "Navigate to the project directory in your terminal and run: `python iris_classification.py`."
+    * If you are using a Jupyter Notebook: "Open the `iris_classification_acc(1).ipynb` file and run all cells."
+    * If you are using a Python script: "Navigate to the project directory in your terminal and run: `python iris_classification_acc(1).py`."
 
 ## Preprocessing Details
 
